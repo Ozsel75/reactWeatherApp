@@ -3,7 +3,7 @@
 
 ## :)
 
-<p>Detailed weathercast and forecast for cities</p>
+<p>Detailed weather forecast for cities</p>
 
 ## How it looks
 
